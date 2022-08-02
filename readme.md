@@ -14,3 +14,6 @@ git commit -m ""
 
 git log
 git reflog
+
+
+## Git remote
